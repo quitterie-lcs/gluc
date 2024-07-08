@@ -1,0 +1,6 @@
+# -- Generated files while building
+/public/
+/resources/
+
+# -- Temporary lock file while building
+/.hugo_build.lock
