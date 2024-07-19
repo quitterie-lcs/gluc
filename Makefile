@@ -2,7 +2,7 @@
 # VARIABLES
 
 # -- Hugo
-THEME = ananke
+THEME = blowfish
 
 # -- Docker
 DOCKER_UID = $(shell id -u)
