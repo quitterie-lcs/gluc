@@ -1,6 +1,6 @@
 services:
   hugo:
-    image: klakegg/hugo
+    image: floryn90/hugo
     user: ${DOCKER_USER:-1000}
     command: server -D
     ports:
