@@ -11,6 +11,7 @@ DOCKER_USER = $(DOCKER_UID):$(DOCKER_GID)
 COMPOSE = DOCKER_USER=$(DOCKER_USER) docker compose
 COMPOSE_RUN = $(COMPOSE) run --rm
 COMPOSE_RUN_HUGO = $(COMPOSE_RUN) hugo
+COMPOSE_RUN_PRETTIER = $(COMPOSE_RUN) prettier
 
 # ==============================================================================
 # RULES
@@ -65,6 +66,14 @@ bootstrap: \
 build: ## build static blog
 	@$(COMPOSE_RUN_HUGO) -t $(THEME)
 .PHONY: build
+
+lint-markdown: ## lint markdown file
+	@$(COMPOSE_RUN_PRETTIER) --check "content/**/*.md"
+.PHONY: lint-markdown
+
+lint-markdown-format: ## format markdown file
+	@$(COMPOSE_RUN_PRETTIER) --write "content/**/*.md"
+.PHONY: lint-markdown
 
 # -- Misc
 help:

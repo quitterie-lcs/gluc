@@ -6,4 +6,4 @@ weight = 30
 
 # Guillaume Lucas
 
-*En cours de construction.*
+_En cours de construction._

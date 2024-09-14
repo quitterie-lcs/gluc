@@ -5,8 +5,8 @@ linktitle: Plan du cours
 #     parent: Cours
 title: "La publicité foncière : généralités"
 ---
- 
-*Support pédagogique de la formation du 4 octobre 2023*
+
+_Support pédagogique de la formation du 4 octobre 2023_
 
 ## Introduction
 
@@ -32,19 +32,19 @@ title: "La publicité foncière : généralités"
 
 ### 1. Comprendre le but de la publicité foncière
 
-### 2. La définition de l’opposabilité aux tiers 
+### 2. La définition de l’opposabilité aux tiers
 
 ### 3. Les actes à publier
 
 ### 4. Le service de la publicité foncière (et de l’enregistrement désormais)
- 
+
 ### 5. Les exigences de la publicité foncière dans l'acte authentique
-	
+
 > L'article 710-1 du code civil dispose : «Tout acte ou droit doit, pour donner
 > lieu aux formalités de publicité foncière, résulter d'un acte reçu en la forme
 > authentique par un notaire exerçant en France, d'une décision juridictionnelle
 > ou d'un acte authentique émanant d'une autorité administrative.»
- 
+
 ### 6. Les renseignements hypothécaires et la fonction documentaire
 
 ### 7. La fonction de perception des diverses impositions liées à l'immobilier
