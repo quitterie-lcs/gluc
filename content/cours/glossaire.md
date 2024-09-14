@@ -13,7 +13,7 @@ cadastre par commune. La mission du cadastre est fiscale. La tenue du registre
 du cadastre à jour contribue à déterminer l'impôt foncier et des impôts
 personnels (logements vacants).
 
-Le cadastre comprend des plans de section, plans d'assemblage, le tout informatisé. 
+Le cadastre comprend des plans de section, plans d'assemblage, le tout informatisé.
 L'exploitation de ces données est faite par le fichier immobilier au service de
 la publicité foncière, hors consultation simple du cadastre.
 
@@ -23,13 +23,13 @@ Il s'agit d'un registre administratif mis à jour chaque année, récapitulant l
 parcelles. Il contient les informations relatives aux immeubles appartenant à un
 même propriétaire sur une même commune.
 
-## La parcelle cadastrale 
+## La parcelle cadastrale
 
-Selon l'association H. CAPITANT, il s'agit d'une: 
+Selon l'association H. CAPITANT, il s'agit d'une:
 
->"Portion de terrain d'étendue variable et d'un seul tenant située dans un même
->lieu qui présente une même nature de culture ou une même affectation et
->appartient à un même propriétaire, constituant ainsi l'unité cadastrale".
+> "Portion de terrain d'étendue variable et d'un seul tenant située dans un même
+> lieu qui présente une même nature de culture ou une même affectation et
+> appartient à un même propriétaire, constituant ainsi l'unité cadastrale".
 
 ## Le Registre
 
@@ -59,7 +59,7 @@ _Anciennement le salaire du conservateur_
 > autres droits sur les immeubles et de la formalité fusionnée de publicité
 > foncière et d'enregistrement ».
 
-In Guide Defrenois de la rédaction des actes. 
+In Guide Defrenois de la rédaction des actes.
 
 ## L'acte normalisé
 
@@ -74,7 +74,7 @@ de vente selon un modèle unique.
 C'est un document de navette d'informations des services établi par le notaire
 sur la base de l'acte objet de la publication.
 
-## La copie authentique de l'acte 
+## La copie authentique de l'acte
 
 C'est la reproduction de l'acte avec la signature du notaire et revêtu du sceau
 (marque de l'autorité publique).
@@ -92,7 +92,6 @@ termes d'un acte à publier soit modification selon les indications dudit
 document, le tout par un géomètre-expert dûment visé par les services du
 cadastre aux fins de numérotation des parcelles. Ce document est devenu
 numérique et dématérialisé.
-
 
 ## Les extraits modèle 1 & 3
 
@@ -113,24 +112,24 @@ Elle est faite par le notaire dans le cadre de la réception de l'acte de vente
 sur la base de la documentation recueillie en amont de la signature et
 nécessaire à la confection de l'acte authentique.
 
-## Le principe de conformité absolue 
+## Le principe de conformité absolue
 
 _dans le cadre de la demande de renseignements hypothécaires_
 
 Le SPF n'a pas la liberté d'ouvrir les paramètres d'interprétation. On pose une
 question à laquelle le service répond.
 
-## Le principe de l'effet relatif 
+## Le principe de l'effet relatif
 
 Extrait du Rapport des Notaires de France 2020. (Point 4414)
 
->"Le respect du principe de l’effet relatif du contrat est prévu par l’article 3
->du décret du 4 janvier 1955, qui dispose qu’« aucun acte ou décision judiciaire
->sujet à publicité dans un service chargé de la publicité foncière ne peut être
->publié au fichier immobilier si le titre du disposant ou dernier titulaire n’a
->pas été préalablement publié, conformément aux dispositions du présent décret
->». L’objectif de cette règle est d’éviter toute rupture dans la chaîne des
->mutations de propriété."
+> "Le respect du principe de l’effet relatif du contrat est prévu par l’article 3
+> du décret du 4 janvier 1955, qui dispose qu’« aucun acte ou décision judiciaire
+> sujet à publicité dans un service chargé de la publicité foncière ne peut être
+> publié au fichier immobilier si le titre du disposant ou dernier titulaire n’a
+> pas été préalablement publié, conformément aux dispositions du présent décret
+> ». L’objectif de cette règle est d’éviter toute rupture dans la chaîne des
+> mutations de propriété."
 
 ## Les identifiants « personne »
 
@@ -151,17 +150,16 @@ Pour les personnes morales : On doit identifier la nature de la société
 numéro d'identification SIREN À 9 chiffres et le registre du commerce et des
 sociétés (RCS) duquel il dépend.
 
-
 ## Les identifiants « immeuble » ou « bien »
 
-Article 7 du décret numéro 55-22 du 4 janvier 1955: 
+Article 7 du décret numéro 55-22 du 4 janvier 1955:
 
 > « Tout acte ou décision judiciaire sujet à publicité dans un service chargé de
 > la publicité foncière doit indiquer, pour chacun des immeubles qu'il concerne,
 > la nature, la situation, la contenance et la désignation cadastrale (section,
 > numéro du plan et lieu-dit). Le lieu-dit est remplacé par l'indication de la
 > rue et du numéro pour les immeubles situés dans les parties agglomérées des
-> communes urbaines. » 
+> communes urbaines. »
 
 ## Un état hors formalité
 
@@ -172,9 +170,10 @@ est la photographie des 3 périodes ci-après. Il est "hors formalité" comme
 ### Le Stock (création du fichier immobilier 1956)
 
 Il contient les :
-* fiche personnelle (rural),
-* fiche d'immeuble (urbain),
-* fiche parcellaire (doc interne recours utile pour effet relatif documents
+
+- fiche personnelle (rural),
+- fiche d'immeuble (urbain),
+- fiche parcellaire (doc interne recours utile pour effet relatif documents
   croisés).
 
 Figer pour toujours depuis Fidji
@@ -184,8 +183,8 @@ Figer pour toujours depuis Fidji
 Il contient le Relevé des formalités sur l'immeuble.
 On doit comparer les données du stock et du flux, le flux ayant pris le relais
 du stock figé à tout jamais.
- 
-### Le Certificat de dépôt 
+
+### Le Certificat de dépôt
 
 Période : Depuis le fichier informatisé à une date x est à jour, le SPF certifie
 qu'il n'y a aucune publication jusqu'à la date de la demande de l'état hors
@@ -194,7 +193,7 @@ formalité.
 L'apparition d'une mention à un caractère provisoire pour laquelle on a
 l'information sur un certificat de dépôt à la date de la demande.
 
-## L'inscription intercalaire 
+## L'inscription intercalaire
 
 Est celle révélée par l'état sur formalité (état sur l'état hypothécaire du bien
 à l'occasion de la réquisition de publication d'un acte au fichier pour se
@@ -238,12 +237,12 @@ s'agit de :
 > métier, de compétences et de responsabilités de la DGFIP vers les offices
 > notariaux. La responsabilité des offices est par conséquent engagée dans
 > l’établissement des états hypothécaires."
-  
-En premier lieu ce système informatisé s'entend de : 
 
->"l'accès par voie dématérialisée aux fiches hypothécaires du fichier immobilier
->(qui) n’est ouvert qu'aux seuls notaires."
-  
+En premier lieu ce système informatisé s'entend de :
+
+> "l'accès par voie dématérialisée aux fiches hypothécaires du fichier immobilier
+> (qui) n’est ouvert qu'aux seuls notaires."
+
 En deuxième lieu, lle décret n° 55-1350 du 14 octobre 1955 pour l'application
 du décret n° 55-22 du 4 janvier 1955 portant réforme de la chargés de la
 publicité foncière précise les modalités de traitement de demandes de
@@ -253,7 +252,7 @@ Un décret, entré en vigueur le 29 décembre 2018 (D. n° 2018-1266) complète 
 texte, en créant la possibilité, pour les notaires, d'obtenir de la direction
 générale des finances publiques (DGFiP) les renseignements et copies de
 documents figurant au fichier immobilier par voie dématérialisée au moyen d'une
-application informatique dédiée. 
+application informatique dédiée.
 
 Un arrêté du 12 novembre 2019 prévoit que le déploiement de l'application
 informatique. Nous sommes dans l'ère de l'ANF dans le quotidien du notaire.
@@ -275,7 +274,7 @@ respectant pas les règles de la publicité foncière.
 Le Refus : de publier suite à une réquisition ou le retour de la formalité, le
 délai court contre le notaire.
 Rectifier l'acte avec les renvois spécialement approuvé / acte rectificatif et
-complémentaire qui est autonome de l'acte refusé. 
+complémentaire qui est autonome de l'acte refusé.
 
 ### La Discordance
 
